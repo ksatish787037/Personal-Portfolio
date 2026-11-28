@@ -51,5 +51,5 @@ Personal-Portfolio/
 ## Contact
 
 - GitHub: [@ksatish787037](https://github.com/ksatish787037)
-- LinkedIn: linkedin.com/in/satish-kumar-01792736a
+- LinkedIn: www.linkedin.com/in/satish-kumar-01792736a
 - Email: ksatish787037@gmail.com
